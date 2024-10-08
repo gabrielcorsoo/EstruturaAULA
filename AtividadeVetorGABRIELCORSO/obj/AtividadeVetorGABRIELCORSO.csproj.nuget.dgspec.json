@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\corso\\EstruturaAULA\\EstruturaAULA.csproj": {}
+    "C:\\Users\\corso\\EstruturaAULA\\AtividadeVetorGABRIELCORSO\\AtividadeVetorGABRIELCORSO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\corso\\EstruturaAULA\\EstruturaAULA.csproj": {
+    "C:\\Users\\corso\\EstruturaAULA\\AtividadeVetorGABRIELCORSO\\AtividadeVetorGABRIELCORSO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\corso\\EstruturaAULA\\EstruturaAULA.csproj",
-        "projectName": "EstruturaAULA",
-        "projectPath": "C:\\Users\\corso\\EstruturaAULA\\EstruturaAULA.csproj",
+        "projectUniqueName": "C:\\Users\\corso\\EstruturaAULA\\AtividadeVetorGABRIELCORSO\\AtividadeVetorGABRIELCORSO.csproj",
+        "projectName": "AtividadeVetorGABRIELCORSO",
+        "projectPath": "C:\\Users\\corso\\EstruturaAULA\\AtividadeVetorGABRIELCORSO\\AtividadeVetorGABRIELCORSO.csproj",
         "packagesPath": "C:\\Users\\corso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\corso\\EstruturaAULA\\obj\\",
+        "outputPath": "C:\\Users\\corso\\EstruturaAULA\\AtividadeVetorGABRIELCORSO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\corso\\AppData\\Roaming\\NuGet\\NuGet.Config"

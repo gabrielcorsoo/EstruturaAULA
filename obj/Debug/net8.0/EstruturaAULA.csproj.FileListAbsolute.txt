@@ -28,3 +28,18 @@ C:\Users\gabri\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\refint\Estrutura
 C:\Users\gabri\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\EstruturaAULA.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\EstruturaAULA.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\ref\EstruturaAULA.dll
+C:\Users\corso\EstruturaAULA\bin\Debug\net8.0\EstruturaAULA.exe
+C:\Users\corso\EstruturaAULA\bin\Debug\net8.0\EstruturaAULA.deps.json
+C:\Users\corso\EstruturaAULA\bin\Debug\net8.0\EstruturaAULA.runtimeconfig.json
+C:\Users\corso\EstruturaAULA\bin\Debug\net8.0\EstruturaAULA.dll
+C:\Users\corso\EstruturaAULA\bin\Debug\net8.0\EstruturaAULA.pdb
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.AssemblyInfoInputs.cache
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.AssemblyInfo.cs
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.csproj.CoreCompileInputs.cache
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.sourcelink.json
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.dll
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\refint\EstruturaAULA.dll
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.pdb
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\EstruturaAULA.genruntimeconfig.cache
+C:\Users\corso\EstruturaAULA\obj\Debug\net8.0\ref\EstruturaAULA.dll
